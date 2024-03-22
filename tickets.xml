@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ticket>
+  <date>2024-03-22 14:54:01</date>
+  <items>
+    <item name="іпіпв">
+      <count>0</count>
+      <price>235</price>
+      <total>0</total>
+    </item>
+    <item name="івпвпп">
+      <count>0</count>
+      <price>12</price>
+      <total>0</total>
+    </item>
+    <item name="іпраіп">
+      <count>0</count>
+      <price>0</price>
+      <total>0</total>
+    </item>
+    <item name="пів">
+      <count>12</count>
+      <price>10</price>
+      <total>120</total>
+    </item>
+    <item name="аіпаіпіап">
+      <count>10</count>
+      <price>10</price>
+      <total>100</total>
+    </item>
+    <item name="іпіпв">
+      <count>10</count>
+      <price>5</price>
+      <total>50</total>
+    </item>
+    <item name="пвпвавапвпа">
+      <count>12</count>
+      <price>12</price>
+      <total>144</total>
+    </item>
+  </items>
+</ticket>
